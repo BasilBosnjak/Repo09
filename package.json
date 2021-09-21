@@ -1,0 +1,20 @@
+{
+  "name": "Repo09",
+  "version": "1.0.0",
+  "description": "Paragon Arena Day 09",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BasilBosnjak/Repo09.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BasilBosnjak/Repo09/issues"
+  },
+  "homepage": "https://github.com/BasilBosnjak/Repo09#readme"
+}
